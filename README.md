@@ -4,10 +4,10 @@ I am an aspiring developer passionate about cloud, data, and ML — I build inte
 
 ### 🚀 About Me
 - 🌱 Currently exploring: **Spring Boot** & **React**
-- 💼 Interests: **Web Development**, **API Integration**, **AI**, and **Problem Solving**
-- 🎯 Goal: To build scalable web applications and grow as a full-stack developer
-- ✨ Hobbies: Badminton, Volleyball, TT, Travelling & Exploring
-- 📫 How to reach me: **aniketgolu82@gmail.com**
+- 💼 Interests: **Data Science**, **Machine Learning**, **AI**, and **Problem Solving**
+- 🎯 Goal: To build scalable and effiecient solutions and data driven insights
+- ✨ Hobbies: Football, Cricket, Cooking, Travelling & Exploring
+- 📫 Reach me: **aniketgolu82@gmail.com**
 
 ### 💻 Tech Stack:
 - Frontend: HTML, CSS, JavaScript, React
