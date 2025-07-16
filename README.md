@@ -3,15 +3,14 @@
 I am an aspiring developer passionate about cloud, data, and ML — I build intelligent solutions, analyze the world with code, and grow every day
 
 ### 🚀 About Me
-- 🌱 Currently exploring: **Spring Boot** & **React**
 - 💼 Interests: **Data Science**, **Machine Learning**, **AI**, and **Problem Solving**
 - 🎯 Goal: To build scalable and effiecient solutions and data driven insights
 - ✨ Hobbies: Football, Cricket, Cooking, Travelling & Exploring
 - 📫 Reach me: **aniketgolu82@gmail.com**
 
 ### 💻 Tech Stack:
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, MySQL
+- Languages: Java, Python, HTML, CSS, JavaScript
+- Database: MySQL, Excel, MongoDB
 - Tools: Git, Power BI
   
 ## 🌐 Socials:
